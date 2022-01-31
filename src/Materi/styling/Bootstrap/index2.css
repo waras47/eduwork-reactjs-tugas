@@ -1,0 +1,26 @@
+body {
+    margin : 0;
+    font-family: "Roboto Slab", sans-serif;
+}
+.name{
+    font-weight : bold;
+    font-size: 60px;
+}
+.jumbotron {
+    background-image: url(background.png); 
+    background-size: cover;
+    height: 400px;
+    font-family: "Roboto Slab", sans-serif;
+}
+.btn-primary {
+    background-color: rgb(64, 64, 184);
+    border-radius:  10px;
+    box-shadow: 0 2px 2px black !important;
+}
+.btn-primary:hover {
+    background-color: rgb(119, 119, 206);
+}
+.footer {
+    line-height: 50px;
+    margin-bottom: 0px;
+}
